@@ -69,6 +69,10 @@ src: ./pages/11_Abstract Class (lanjutan).md
 
 ---
 ---
+src: ./pages/11_Abstract Class (other).md 
+
+---
+---
 src: ./pages/12_Cover Interface.md 
 
 ---

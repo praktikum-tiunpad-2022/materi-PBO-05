@@ -4,4 +4,4 @@ class: text-center
 ---
 
 # Assignment!
-Seperti biasa akan setiap selesai praktikum pasti ada tugas
+Seperti biasa, setiap selesai praktikum pasti ada tugas
