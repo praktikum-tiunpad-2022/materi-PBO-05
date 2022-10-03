@@ -14,7 +14,7 @@
 
 <div>
 
-![UML](/../asset/UML.png)
+![UML](/asset/UML.png)
 
 </div>
 </div>

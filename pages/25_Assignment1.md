@@ -34,7 +34,7 @@ class Test {
 
 <div>
 
-<img src="/../asset/soal1.png" class="w-2/3 m-auto" />
+<img src="/asset/soal1.png" class="w-2/3 m-auto" />
 
 </div>
 </div>
