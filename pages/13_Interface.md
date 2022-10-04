@@ -2,7 +2,6 @@
 
 <div class="grid grid-cols-2 gap-4">
 
-
 <div>
 
 Interface berbentuk abstract secara implisit, baik dari keyword Interface nya, maupun method-method didalamnya.
