@@ -7,7 +7,6 @@
 </div>
 <div class="grid grid-cols-2 gap-4">
 
-
 <div v-click="1" class="">
 
 ```java
@@ -28,7 +27,7 @@ public class Parent {
 public class Child extends Parent {
     int x = 10;
 
-    @override
+    @Override
     public void showInfo() {
       system.out.println("Child");
     }

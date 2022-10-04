@@ -4,7 +4,6 @@ Contoh penggunaan abstract class
 
 <div class="grid grid-cols-2 gap-4">
 
-
 <div v-click="1" class="">
 
 ```java
@@ -33,7 +32,7 @@ public class Cat extends Animal {
       super(name);
     }
 
-    @override
+    @Override
     public String getSound() {
       return "Miaw";
     }

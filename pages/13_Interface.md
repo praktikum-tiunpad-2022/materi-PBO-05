@@ -2,7 +2,6 @@
 
 <div class="grid grid-cols-2 gap-4">
 
-
 <div>
 
 Interface berbentuk abstract secara implisit, baik dari keyword Interface nya, maupun method-method didalamnya.
@@ -36,12 +35,12 @@ public class Fish implements Animal {
       this.name = name;
     }
 
-    @override
+    @Override
     public void eat() {
       System.out.println("Eat");
     }
 
-    @override
+    @Override
     public void travel() {
       System.out.println("Swim");
     }
