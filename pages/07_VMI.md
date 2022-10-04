@@ -2,7 +2,7 @@
 
 <div class="text-sm">
 
-**Virtual Method Invocation (VMI)** dapat terjadi ketika **adanya polimorfisme dan method yang di-override**. Compiler secara otomatis akan **memanggil method yang sudah ter-override**.
+**Virtual Method Invocation (VMI)** dapat terjadi ketika **adanya polimorfisme dan method yang di-override**. JVM secara otomatis akan **memanggil method yang sudah ter-override**.
 
 </div>
 <div class="grid grid-cols-2 gap-4">
@@ -28,7 +28,7 @@ public class Parent {
 public class Child extends Parent {
     int x = 10;
 
-    @override
+    @Override
     public void showInfo() {
       system.out.println("Child");
     }
@@ -44,7 +44,7 @@ public class Main {
     public static void main(String[] args) {
         Parent testParent = new Child();
         System.out.println("Nilai x = " + testParent.x); // 5
-        test.showInfo(); // Child
+        testParent.showInfo(); // Child
     }
 }
 ```

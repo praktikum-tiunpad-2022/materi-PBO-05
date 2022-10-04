@@ -33,7 +33,7 @@ public class Cat extends Animal {
       super(name);
     }
 
-    @override
+    @Override
     public String getSound() {
       return "Miaw";
     }

@@ -11,4 +11,4 @@ Parent test = new Child();
 
 Object **test** hanya mengetahui atribut dan method pada **Parent** saja.
 
-Tetapi ketika ada method parent yang di-override pada **Child** class, maka Compiler akan memanggil method tersebut (konsep VMI)
+Tetapi ketika ada method parent yang di-override pada **Child** class, maka JVM akan memanggil method tersebut (konsep VMI)

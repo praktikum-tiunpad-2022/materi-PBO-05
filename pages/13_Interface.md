@@ -36,12 +36,12 @@ public class Fish implements Animal {
       this.name = name;
     }
 
-    @override
+    @Override
     public void eat() {
       System.out.println("Eat");
     }
 
-    @override
+    @Override
     public void travel() {
       System.out.println("Swim");
     }
